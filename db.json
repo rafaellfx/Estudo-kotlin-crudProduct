@@ -1,0 +1,29 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Macbook",
+      "valor": 5000
+    },
+    {
+      "id": 2,
+      "nome": "Iphone",
+      "valor": 4000.5
+    },
+    {
+      "id": 3,
+      "nome": "AppleTV",
+      "valor": 2000
+    },
+    {
+      "id": 4,
+      "nome": "Ipad",
+      "valor": 3000.2
+    },
+    {
+      "id": 5,
+      "nome": "Apple Watch",
+      "valor": 3990.99
+    }
+  ]
+}
